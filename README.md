@@ -4,3 +4,4 @@ Para poder correr la aplicacion debes tener lo siguiente:
 
 - Correr el proyecto con el siguiente comando
   npm run dev
+# Aspiradora-Autom-tica
